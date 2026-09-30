@@ -1,0 +1,6 @@
+a9146bd5dcbb14a52858d9e2771b116b71e80d97 README.md
+2279487e4c9f2ae45d0367d43d50c05164ec926d finish-captures.ts
+70f84f8b8eae0d1b2a9e6dc4e3e99c1d96cd7a56 helpers/liferay.ts
+903133cc5c262c40c8379f1255722d0ee3bfce54 helpers/screenshot.ts
+d8433d46b4916a72693cc782711201c6d4853822 helpers/sign-in.ts
+0e8c00d3cc46499dc18eb1cf5464142f64460706 playwright.config.ts
